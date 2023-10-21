@@ -40,6 +40,10 @@ Insights:  <br/>
 <br />
 CODE for collecting IP's that attacking your Machine:  <br/>
 <img src="https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/Sentinel-Lab(custom_security_Log_exporter)CODE.txt"/>
+<br />
+<br />
+CODE for Sentinel:  <br/>
+<img src="https://github.com/Vlad774/Microsoft-Azure-Sentinel-Lab-Attack-Map/blob/main/workbook_santinel.txt"/>
 
 </p>
 
