@@ -4,6 +4,19 @@
 
 <h2>Description</h2>
 
+Cybersecurity Project: Azure-Oracle Integration for Threat Detection
+
+In this project, we:
+
+Deploy Azure VMs for a secure foundation.
+Set up Oracle VM for critical workloads.
+Utilize Azure Log Analytics for real-time monitoring.
+Enhance Azure VM firewall settings.
+Collect and analyze data on potential hackers.
+Integrate with Azure Sentinel for threat detection.
+Visualize threat data on a world map.
+This initiative showcases the synergy of Azure and Oracle for robust cybersecurity, real-time monitoring, and global threat insight. It's a model for proactive cybersecurity strategies.
+
 <br />
 
 
@@ -17,7 +30,7 @@
 
 - <b>Microsoft Azure</b> 
 - <b>Microsoft Sentinel</b> 
--
+- <b>Oracle VM</b>
 
 <h2>Walk-through:</h2>
 
