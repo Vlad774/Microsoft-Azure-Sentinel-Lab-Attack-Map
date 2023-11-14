@@ -6,7 +6,7 @@
 
 Cybersecurity Project: Azure-Oracle Integration for Threat Detection
 
-In this project, we:
+In this project:
 
 Deploy Azure VMs for a secure foundation.
 Set up Oracle VM for critical workloads.
